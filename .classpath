@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CryptographyPrj10_ECDSA/src"/>
+	<classpathentry kind="lib" path="CryptographyPrj10_ECDSA/javax.json-1.0.4.jar"/>
+	<classpathentry kind="output" path="CryptographyPrj10_ECDSA/bin"/>
+</classpath>
